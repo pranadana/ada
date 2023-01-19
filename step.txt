@@ -10,16 +10,16 @@ gabungkan hasil update branch masing-masing ke dalam branch lokal
 nama : arfan
 TTL : loko 09-06-2004
 Asal Daerah : enrekang, sul sel
-No. HP : 0821837481123
+No. HP : 08218374811
 
 ========================
 
 >>>>>> hasil pada branch main <<<<<<<
 
-nama : xxxxxxx
-TTL : xxxxx
-Asal Daerah : xxxxxxx
-No. HP : xxxxxxx
+nama : arfan
+TTL : loko 09-06-2004
+Asal Daerah : enrekang
+No. HP : 08247958090
 
 nama : xxxxxxx
 TTL : xxxxx
